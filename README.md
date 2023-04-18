@@ -1,7 +1,7 @@
 ### Hi there 👋
 <hr>
 
-I\`m a Backend Developer
+I'm a python backend developer
 How to contact me:
 
  - Just send email to m.savelkov@yandex.ru
