@@ -2,11 +2,10 @@
 <hr>
 
 I'm a python backend developer
+
 How to contact me:
-
- - Just send email to m.savelkov@yandex.ru
-
- - Or write to telegram [@LilHost](https://t.me/LilHost)
+Just send email to m.savelkov@yandex.ru
+Or write to telegram [@LilHost](https://t.me/LilHost)
 
 ### Skills
 
