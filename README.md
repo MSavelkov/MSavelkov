@@ -2,12 +2,11 @@
 <hr>
 
 I\`m a Backend Developer
-------------------------
 How to contact me:
 
  - Just send email to m.savelkov@yandex.ru
 
- - Or write to telegram @LilHost
+ - Or write to telegram [@LilHost](https://t.me/LilHost)
 
 ### Skills
 
